@@ -1,0 +1,38 @@
+[
+    // courses
+    {
+        "course-id": "CSCA08H32019",
+        "groups": [
+            // eg tuts lecs pracs
+            {
+                "type": "lecture",
+                "options": [
+                    // lec 1
+                    {
+                        "id": "lec1",
+                        "meetings": [
+                            // meeting has start end room
+                            [],
+                            []
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "tutorial",
+                "options": [
+
+                ]
+            },
+            {
+                "type": "practical",
+                "options": [
+
+                ]
+            }
+        ]
+    },
+    // 2 other courses
+    {},
+    {}
+]

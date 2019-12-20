@@ -1,0 +1,210 @@
+[
+    {
+        "id": "5dba87cd0cf2759029b18c99",
+        "name": "Introduction to Computer Science I",
+        "ucName": null,
+        "code": "CSCA08H3",
+        "sectionCode": "F",
+        "campus": "Scarborough",
+        "sessions": [
+            "20199"
+        ],
+        "duration": "Half",
+        "description": "Programming in an object-oriented language such as Python. Program structure: elementary data types, statements, control flow, functions, classes, objects, methods. Lists; searching, sorting and complexity.  This course is intended for students having a serious interest in higher level computer science courses, or planning to complete a computer science program.",
+        "department": "University of Toronto Scarborough",
+        "sections": [
+            {
+                "name": "L01",
+                "type": "Lecture",
+                "meetingTimes": [
+                    {
+                        "start": {
+                            "day": 1,
+                            "millisofday": 43200000
+                        },
+                        "end": {
+                            "day": 1,
+                            "millisofday": 46800000
+                        }
+                    },
+                    {
+                        "start": {
+                            "day": 3,
+                            "millisofday": 39600000
+                        },
+                        "end": {
+                            "day": 3,
+                            "millisofday": 46800000
+                        }
+                    }
+                ],
+                "repetition": "WEEKLY",
+                "repetitionTime": "ONCE_A_WEEK",
+                "firstMeeting": "2019-09-10",
+                "instructors": [
+                    "Anya Tafliovich"
+                ],
+                "buildingCode": "HL",
+                "buildingRoomNumber": "B101",
+                "currentEnrolment": 127,
+                "maxEnrolment": 150
+            },
+            {
+                "name": "L02",
+                "type": "Lecture",
+                "meetingTimes": [
+                    {
+                        "start": {
+                            "day": 5,
+                            "millisofday": 43200000
+                        },
+                        "end": {
+                            "day": 5,
+                            "millisofday": 46800000
+                        }
+                    },
+                    {
+                        "start": {
+                            "day": 3,
+                            "millisofday": 46800000
+                        },
+                        "end": {
+                            "day": 3,
+                            "millisofday": 54000000
+                        }
+                    }
+                ],
+                "repetition": "WEEKLY",
+                "repetitionTime": "ONCE_A_WEEK",
+                "firstMeeting": "2019-09-03",
+                "instructors": [
+                    "Anya Tafliovich"
+                ],
+                "buildingCode": "SY",
+                "buildingRoomNumber": "110",
+                "currentEnrolment": 129,
+                "maxEnrolment": 150
+            },
+            {
+                "name": "L03",
+                "type": "Lecture",
+                "meetingTimes": [
+                    {
+                        "start": {
+                            "day": 2,
+                            "millisofday": 54000000
+                        },
+                        "end": {
+                            "day": 2,
+                            "millisofday": 57600000
+                        }
+                    },
+                    {
+                        "start": {
+                            "day": 4,
+                            "millisofday": 54000000
+                        },
+                        "end": {
+                            "day": 4,
+                            "millisofday": 61200000
+                        }
+                    }
+                ],
+                "repetition": "WEEKLY",
+                "repetitionTime": "ONCE_A_WEEK",
+                "firstMeeting": "2019-09-03",
+                "instructors": [
+                    "Nick Cheng"
+                ],
+                "buildingCode": "SW",
+                "buildingRoomNumber": "319",
+                "currentEnrolment": 135,
+                "maxEnrolment": 150
+            },
+            {
+                "name": "L04",
+                "type": "Lecture",
+                "meetingTimes": [
+                    {
+                        "start": {
+                            "day": 1,
+                            "millisofday": 57600000
+                        },
+                        "end": {
+                            "day": 1,
+                            "millisofday": 61200000
+                        }
+                    },
+                    {
+                        "start": {
+                            "day": 3,
+                            "millisofday": 54000000
+                        },
+                        "end": {
+                            "day": 3,
+                            "millisofday": 61200000
+                        }
+                    }
+                ],
+                "repetition": "WEEKLY",
+                "repetitionTime": "ONCE_A_WEEK",
+                "firstMeeting": "2019-09-10",
+                "instructors": [
+                    "Nick Cheng"
+                ],
+                "buildingCode": "SW",
+                "buildingRoomNumber": "319",
+                "currentEnrolment": 131,
+                "maxEnrolment": 150
+            },
+            {
+                "name": "L05",
+                "type": "Lecture",
+                "meetingTimes": [
+                    {
+                        "start": {
+                            "day": 1,
+                            "millisofday": 46800000
+                        },
+                        "end": {
+                            "day": 1,
+                            "millisofday": 50400000
+                        }
+                    },
+                    {
+                        "start": {
+                            "day": 4,
+                            "millisofday": 46800000
+                        },
+                        "end": {
+                            "day": 4,
+                            "millisofday": 54000000
+                        }
+                    }
+                ],
+                "repetition": "WEEKLY",
+                "repetitionTime": "ONCE_A_WEEK",
+                "firstMeeting": "2019-09-10",
+                "instructors": [
+                    "Anya Tafliovich"
+                ],
+                "buildingCode": "SW",
+                "buildingRoomNumber": "319",
+                "currentEnrolment": 137,
+                "maxEnrolment": 150
+            }
+        ],
+        "modified": "Oct 31, 2019 7:05:49 AM",
+        "lastSaved": 1576571344784,
+        "cmTitle": "Introduction to Computer Science I",
+        "levelOfInstruction": "undergraduate",
+        "prerequisitesText": "Grade 12 Calculus and Vectors and one other Grade 12 mathematics course.",
+        "corequisitesText": "",
+        "exclusionsText": "CSCA20H3, CSC108H, CSC120H. CSCA08H3 may not be taken after or concurrently with CSCA48H3.",
+        "breadthRequirementDivision": null,
+        "breadthRequirements": [
+            "Quantitative Reasoning"
+        ],
+        "distributionRequirements": null
+    }
+]
